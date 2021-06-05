@@ -1,0 +1,12 @@
+form  	{ display: table; width:50%;}
+p     	{ display: table-row;  width:100%;}
+label 	{ display: table-cell; vertical-align:top;  width:20%;}
+h1 		{ color: #FF0000; font-size: 50px; text-decoration: underline;}
+input[type=text]{ display: table-cell; width: 60%;}
+select{ display: table-cell; width: 30%;}
+textarea { display: table-cell; width: 60%;}
+#div{
+  position: relative;
+  top: 0%;
+  left: 30%;
+}

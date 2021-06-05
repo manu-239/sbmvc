@@ -1,0 +1,6 @@
+form  	{ display: table; width:50%;}
+p     	{ display: table-row;  width:100%;}
+b 		{ display: table-cell; vertical-align:top;  width:20%;}
+span 	{ display: table-cell; vertical-align:top;  width:100%;}
+h1 		{ color: #FF0000; font-size: 50px; text-decoration: underline;}
+h2 		{ color: #FF0000; font-size: 30px;}
